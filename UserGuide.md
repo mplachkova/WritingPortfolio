@@ -1,5 +1,10 @@
 # User Guide
 
+## About this document
+
+- Mock guide for training purpose.
+- Assumed audience of users who are familiar with various type of software and can download and install an application without getting help.
+
 ## The application
 
 PortableApps is a an open source and free application providing the opportunity to use various tools without the need of installing them on your PC or laptop. All you need is a flash drive and you can take your most favorite apps in your pocket everywhere you go.
