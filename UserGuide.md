@@ -2,8 +2,8 @@
 
 ## About this document
 
-- Mock guide for training purpose.
-- Assumed audience of users who are familiar with various type of software and can download and install an application without getting help.
+* Mock guide for training purpose.
+* Assumed audience of users who are familiar with various type of software and can download and install an application without getting help.
 
 ## The application
 
