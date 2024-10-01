@@ -1,6 +1,6 @@
 # PhantasticFoto API Docs #
 
-## CRUD operations ##
+## CRUD operations documenting exercise ##
 
 ### Retrieve an album ###
 
