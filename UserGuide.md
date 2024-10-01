@@ -33,6 +33,8 @@ Platform menus are virtually grouped in sections according to their function.
 | Middle section | Here is where you can backup your platform, add more apps to it or customize it. Clicking on each menu folder opens a dropdown menu with different options.|
 | Lower section | Help and Search. |
 
+!(Images/PortableAppMenus.png)
+
 #### Application handling
 
 Hovering over an added application name and right-click opens the context menu with options to run, uninstall or perform other actions related to that app.
