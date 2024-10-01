@@ -33,7 +33,7 @@ Platform menus are virtually grouped in sections according to their function.
 | Middle section | Here is where you can backup your platform, add more apps to it or customize it. Clicking on each menu folder opens a dropdown menu with different options.|
 | Lower section | Help and Search. |
 
-!(Images/PortableAppMenus.png)
+![Menus image](Images/PortableAppMenus.png)
 
 #### Application handling
 
