@@ -1,8 +1,8 @@
-# API Documentation exercise #
+# API Documentation exercise
 
-## CRUD operations documenting exercise ##
+## CRUD operations documenting exercise
 
-### Retrieve an album ###
+### Retrieve an album
 
 Returns data about a collection of images.
 
@@ -10,35 +10,35 @@ Returns data about a collection of images.
 
 where {album ID} is the ID of the album to retrieve.
 
-### Retrieve a list of albums ###
+### Retrieve a list of albums
 
 Returns a full list of albums.
 
 **GET** `https://example.com/api/v1/album`
 
-### Update an album ###
+### Update an album
 
 **PUT** `https://example.com/api/v1/album/{album ID}`
 
 where {album ID} is the ID of the album to update.
 
-### Delete an album ###
+### Delete an album
 
 **DELETE** `https://example.com/api/v1/album/{album ID}`
 
 where {album ID} is the ID of the album to delete.
 
-### Create an album ###
+### Create an album
 
 **POST** `https://example.com/api/v1/album`.
 
-### Print an album ###
+### Print an album
 
 **POST** `https://example.com/api/v1/album/{album ID}/print`
 
 where {album ID} is the ID of the album to print.
 
-## Query parameters documenting exercise ##
+## Query parameters documenting exercise
 
 Here is the information on the query parameters from the developer team:
 
@@ -58,7 +58,7 @@ Here is the information on the query parameters from the developer team:
 
 None of these query parameters are required. The default is all.
 
-## Query parameters documented ##
+## Query parameters documented
 
 | Parameter name | Description | Type | Required | Notes |
 |-----------|-------------|------|----------|-------|
@@ -69,3 +69,20 @@ None of these query parameters are required. The default is all.
 | **status** | The bug status | string | No | Valid values: **open**, **closed**, **duplicate**, **notabug**. The default returns all statuses. |
 | **start** | Pagination starting index | integer | No | Starting index value is **0**. The default is 0. |
 | **total** | Total number of bugs to be returned | integer | No | Default value is total number of bugs minus the start value. |
+
+## Headers documenting exercise
+
+| Header name | Description | Required | Value |
+|-----------|-------------|----------|-------|
+| **Content-type** | Format of the photo file | No | image/jpeg, image/png, image/gif. Default is image/jpeg. |
+| **Accept** | Returned data format | No | application/json, application/xml. Default is application/json. |
+
+Server address: (https://example.com/api/v1/)
+
+### Example POST request
+
+POST https://example.com/api/v1/photo<br>
+Content-type:image/png<br>
+Accept:application/json
+
+POST body is the image to upload.
