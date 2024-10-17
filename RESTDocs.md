@@ -44,8 +44,8 @@ Accept: application/json<br>
 
 ````json
 {
-  id:{Id}
-  length: 180.24
+  "id":12345,
+  "length": 180.24
 }
 ````
 
