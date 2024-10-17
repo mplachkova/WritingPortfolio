@@ -7,4 +7,5 @@ Documents here are created on the base of my own experience as a user and only w
 ## Documentation
 
 * [User Guide for PortableApps](UserGuide.md) (official site: <https://portableapps.com>)
+* [API Documentation](ApiDocs.md) exercise from **Learn API Technical Writing 2: REST for Writers** Udemy course.
 * How to?
