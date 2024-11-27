@@ -8,4 +8,4 @@ Documents here are created on the base of my own experience as a user and only w
 
 * [User Guide for PortableApps](UserGuide.md) (official site: <https://portableapps.com>)
 * [API Documentation](RESTDocs.md) exercise from **Learn API Technical Writing 2: REST for Writers** Udemy course.
-* [DITA XML Exercise](https://github.com/mplachkova/WritingPortfolio/tree/main/BasicPoECraftGudeData)
+* [Basic Crafting Guide for Path of Exile](https://github.com/mplachkova/WritingPortfolio/tree/main/BasicPoECraftGudeData) practice from the **How to Write Using DITA XML** Udemy course.
