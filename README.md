@@ -8,5 +8,5 @@ Documents here are created on the base of my own experience as a user and only f
 
 * [User Guide for PortableApps](UserGuide.md) (official site: <https://portableapps.com>)
 * [API Documentation](RESTDocs.md) exercise from **Learn API Technical Writing 2: REST for Writers** Udemy course.
-* 
-* [Basic Crafting Guide for Path of Exile online game - XML Files](BasicPoECraftGudeData) practice from the **How to Write Using DITA XML** Udemy course.
+* [Basic Crafting Guide for Path of Exile online game - PDF File](basic_PoE_crafting_guide_All.pdf) practice from the **How to Write Using DITA XML** Udemy course.
+* [Basic Crafting Guide for Path of Exile online game - XML Files](BasicPoECraftGudeData)
