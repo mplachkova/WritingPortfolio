@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="orbs_usage">
+    <title>How to use Orbs</title>
+    <conbody>
+        <p audience="novice">The type of orbs applicable to an item is determined by its rarity.</p>
+        <p audience="novice">Rare items have the largest orb pool. Normal, Magic or Unique items can
+            have only a few orb types applied to them.</p>
+        <p audience="novice">Every type of orb has a different effect - affixes' values change,
+            affixes reroll, removal of affixes, item rarity change, etc.</p>
+        <p><b>How to discover an orb function:</b> Hovering over an orb opens a window with
+            information about its effect and the rarity type it may be used on. If no rarity type is
+            mentioned, the orb may be applied to an item of any type.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="popular_harvest_crafts">
+    <title>Popular Harvest Crafts</title>
+    <shortdesc>Harvest Crafting is mostly used to:</shortdesc>
+    <conbody>
+        <ul id="ul_dc2_b3y_mdc">
+            <li>Change the elemental resistance modifier into a different one of the same tier - for
+                example from Fire into Cold;</li>
+            <li>Change an item socket color into white;</li>
+            <li>Change a Key Fragmet into a different Fragment of the same Key;</li>
+            <li>Change the type of a Splinter or a Breachstone;</li>
+        </ul>
+        <p> </p>
+    </conbody>
+</concept>

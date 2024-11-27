@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_crafting" audience="novice">
+    <title>What is crafting</title>
+    <conbody>
+        <p><i>Crafting</i> in Path of Exile means changing an existing item's characteristics to create an item that otherwise does not exist in the game. </p>
+        <p><b>NOTE: </b>Although the crafting goal is to create a better item, the process is random, and the outcome is <u>not guaranteed</u>. Usually obtaining a high-end game item requires multiple crafting attempts.</p>
+    </conbody>
+</concept>

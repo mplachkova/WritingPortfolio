@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="bench_crafting">
+    <title>Bench Crafting</title>
+    <shortdesc>A type of crafting that uses the Crafting bench, Orbs and Crafting
+        Recipes.</shortdesc>
+    <conbody>
+        <ul><li>The Crafting Bench is an item located in the player's hideout.</li>
+            <li>The Crafting Recipes are hidden throughout the game's locations. After the player
+                discovers them, they are added to the list of the Bench crafting options.</li>
+            <li>Veiled mofidiers, once discovered, are also available for craft via the Crafting Bench.</li>
+        </ul>
+    </conbody>
+</concept>

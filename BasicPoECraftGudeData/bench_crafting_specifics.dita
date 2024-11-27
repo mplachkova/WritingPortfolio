@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="bench_crafting_specifics">
+    <title>Bench Crafting Restrictions</title>
+    <shortdesc>Requirements to use the Crafting Bench.</shortdesc>
+    <conbody>
+        <ol>
+            <li>
+                <p>Bench crafting can only be used with Rare or Unique identified items, but has no restriction on whether they are corrupted or not.</p>
+                <p><b>NOTE: </b>The Corrupted items always require the usage of Vaal Orbs in addition to the other orbs used during the crafting process making it more expensive.</p>
+            </li>
+            <li>The crafting requires a number of orbs of a given type depending on the desired
+                outcome.</li>
+            <li>An affix can only be added to an item if it has a free slot of the corresponding
+                type. For example, a suffix can be added to an item only if it has at least one free
+                suffix slot.</li>
+            <li>Apart from some specific cases, Bench Crafting provides the option for only one
+                affix to be added to the item, even if there are more affix slots available. For
+                example, a Rare item with three suffixes can only recieve one prefix even though
+                Rare items are allowed to have up to three.</li>
+            <li>For the Unique items, Bench Crafting only provides options for socket number, links number, or socket color change. Their affixes are immutable.</li>
+        </ol>
+        <p><xref href="available_affixes.dita"/></p>
+    </conbody>
+</concept>

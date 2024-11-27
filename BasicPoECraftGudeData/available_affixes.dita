@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="available_affixes">
+    <title>Available affixes</title>
+    <shortdesc>How to find out how many prefixes and suffixes an item has.</shortdesc>
+    <taskbody>
+        <context>
+            <p>A Magic or Rare item may not always have the full number of affixes, offering the
+                option of an additional prefix or suffix to be added via different crafting
+                methods.</p>
+            <p>Here is how to check for available affix slots:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Hover the cursor over an item.</cmd>
+            </step>
+            <step>
+                <cmd>Press and hold the Alt key.</cmd>
+            </step>
+            <step>
+                <cmd>A window showing the item's affixes and their name and type will open.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

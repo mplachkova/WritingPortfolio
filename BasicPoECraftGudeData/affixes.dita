@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="affixes">
+    <title>Affixes</title>
+    <conbody>
+        <p>Every non-normal type item in Path of Exile has modifiers that provide various effects or
+            improvements. These modifiers are known as affixes.</p>
+        <p>There are two types of affixes - prefixes and suffixes. All of the existing affixes in
+            the game are separated between prefixes and suffixes and may belong to only one of these
+            groups.</p>
+        <p>The maximum number of prefixes and suffixes an item can have is limited by its
+            rarity.</p>
+        <p><xref href="item_rarity.dita"/></p>
+    </conbody>
+</concept>

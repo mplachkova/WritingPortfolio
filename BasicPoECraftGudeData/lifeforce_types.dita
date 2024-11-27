@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lifeforce_types">
+    <title>Lifeforce types</title>
+    <conbody>
+        <p>There are four Lifeforce currency types:</p>
+        <ul>
+            <li>Vivid</li>
+            <li>Wild</li>
+            <li>Primal</li>
+            <li>Sacred</li>
+        </ul>
+        <p>Sacred Lifeforce can be dropped only by the Sacred Grove final boss while the other types
+            are dropped by the common monsters in the Grove.</p>
+    </conbody>
+</concept>
