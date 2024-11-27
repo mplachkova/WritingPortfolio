@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="harvest">
+    <title>Harvest Crafting</title>
+    <shortdesc>Crafting using Lifeforce currency.</shortdesc>
+    <conbody>
+        <p>Harvest crafting is an advanced type of crafting and provides options for a better
+            control over the outcome.</p>
+        <p>It becomes available after clearing the harvest plots in the Sacred Grove - a random
+            encounter area that can be found on maps. After a player enters the Sacred Grove, and
+            finishes the small side quest there, they unlock the Horticrafting Station in their
+            hideout.</p>
+        <p>Horticrafting station requires a currency called Lifeforce which is dropped only by the
+            monsters in the Sacred Grove.</p>
+    </conbody>
+</concept>

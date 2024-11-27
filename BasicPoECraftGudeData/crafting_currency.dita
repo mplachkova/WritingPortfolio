@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="crafting_currency">
+    <title>Currency</title>
+    <shortdesc id="shortdesc_crafting_currency" audience="novice">Currency is the common name of all
+        of the in-game non-equipable items that are dropped by killing monsters. Currency can be
+        used to buy items from the NPC vendors, for trades with the other players in game, and for
+        crafting. Some currency types have specific functions like opening portals or identifying an
+        item. </shortdesc>
+    <conbody>
+        <p><b>The currency type used for crafting is Orbs. </b></p>
+        <p>Orbs can be dropped in any area, but each orb type has a different chance of dropping.
+            Some are very common, others are very rare or may be dropped only by a boss. The
+            character's level, the area level, or other factors like map enchantment or gear
+            attributes can also influence the drop chance.</p>
+    </conbody>
+</concept>

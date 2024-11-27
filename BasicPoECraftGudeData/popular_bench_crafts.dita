@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="popular_bench_crafts">
+    <title>Popular Bench Crafts</title>
+    <shortdesc>Among the popular Bench Crafts are:</shortdesc>
+    <conbody>
+        <ul id="ul_cqy_fgf_ndc">
+            <li>Adding six sockets to an item. </li>
+            <li>Adding six linked sockets to an item.</li>
+            <li>Adding Resistance modifier.</li>
+            <li>Flask enchantments.</li>
+            <li>Adding Veiled modifeiers.</li>
+            <li>Remove a bench-crafted modifier from an item.</li>
+        </ul>
+        <p></p>
+    </conbody>
+</concept>

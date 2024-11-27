@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview" audience="reviewer">
+    <title>Introduction</title>
+    <conbody>
+        <p><b>Goal: </b>This guide is created for practicing the theory covered in the Udemy course
+                <i>How to Write Using DITA XML </i>, and only  for an educational purpose.</p>
+        <p><b>Content:</b> The guide's content is based on my knowledge gained from playing the Path
+            of Exile online game, and I used <xref href="https://www.poewiki.net" format="html"
+                scope="external"/> as a reference to ensure the correctness of some items' names or
+            facts mentioned in the guide.</p>
+        <p><b>Audience:</b> The guide provides versions for experienced and novice players.<ul
+                id="ul_lr1_qsn_jdc">
+                <li>Experienced players are considered those, familiar with the Path of Exile game
+                    concepts and terminology, who only need guidelines for a specific crafting
+                    features.</li>
+                <li>
+                    <p> Novice players are just entering the world of Path of Exile. They need
+                        additional information about the general aspects related to the items, and
+                        item crafting.</p>
+                </li>
+            </ul></p>
+        <p>Both groups are considered to have an experience with the game itself, knowledge of the
+            gameplay and of how the interface and the different items look like, what their names
+            are, and how to interact with them.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="item_rarity">
+    <title>Item Rarity</title>
+    <shortdesc audience="novice">Rarity measures the chance of an item with a given combination of
+        characteristics to appear in the game. It's related to the benefits the item may provide,
+        and the higher rarity items are usualy better than the lower ones.</shortdesc>
+    <conbody>
+        <section>
+            <title>Rarity types</title>
+            <table frame="all" rowsep="1" colsep="1" id="table_mtr_41n_gdc">
+                <tgroup cols="3" align="left">
+                    <colspec colname="c1" colnum="1" colwidth="2*"/>
+                    <colspec colname="c2" colnum="2" colwidth="2*"/>
+                    <colspec colname="c3" colnum="3" colwidth="5*"/>
+                    <thead>
+                        <row>
+                            <entry>Rarity</entry>
+                            <entry>Color</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Normal</entry>
+                            <entry>White</entry>
+                            <entry>Base version of the item without any affixes.</entry>
+                        </row>
+                        <row>
+                            <entry>Magic</entry>
+                            <entry>Blue</entry>
+                            <entry>Magic version of an item. May have up to 2 affixes - one prefix and one suffix.</entry>
+                        </row>
+                        <row>
+                            <entry>Rare</entry>
+                            <entry>Yellow</entry>
+                            <entry>Rare version of an item. May have up to 6 affixes - three prefixes and three sufixes.</entry>
+                        </row>
+                        <row>
+                            <entry>Unique</entry>
+                            <entry>Orange</entry>
+                            <entry>Unique skin and name. They have special affixes that can't be
+                                found on other items. The Unique items have limited crafting options
+                                compared to the Rare items.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </conbody>
+</concept>

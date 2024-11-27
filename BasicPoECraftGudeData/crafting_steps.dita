@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="crafting_steps">
+    <title>Crafting Steps</title>
+    <shortdesc>How to use different orbs and change the item affixes.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_efy_3nd_ndc">
+            <p id="crafting_steps_prereq">Items used for crafting must be identified and
+                non-corrupted. Increasing the item's quality is optional, but the higher quality
+                improves the chances to obtain better modifier values.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Put the item in your inventory.</cmd>
+            </step>
+            <step>
+                <cmd>Optional for armors: Use Armourer's scrap on an armor to increase the quality to 20% (max %). </cmd>
+            </step>
+            <step>
+                <cmd>Optional for weapons: Use Blacksmit's Whetstone on a weapon to increase the quality to 20% (max %). </cmd>
+            </step>
+            <step>
+                <cmd>Use the appropriate type of Orb according to the desired outcome.</cmd>
+            </step>
+            <step>
+                <cmd>Right-click an orb to mark it for use.</cmd>
+            </step>
+            <step>
+                <cmd>Left-click the item to apply the orb.</cmd>
+            </step>
+        </steps>
+        <example><b>Example:</b> Use Orb of Transmutation to upgrade the item's rarity from Normal
+            to Magic. Keep applying Orbs of Alteration until receiving the desired outcome, for
+            example <i>12% Increased Intelligence</i>. Finish the crafting by using a Regal Orb to
+            upgrade the item to Rare. It will keep the Magic version affixes and will add at least
+            one more random modifier to the item.</example>
+    </taskbody>
+</task>

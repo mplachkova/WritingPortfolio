@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_crafting_bench">
+    <title>How to Use Crafting Bench</title>
+    <taskbody>
+        <prereq>
+            <p>The item used has to meet the Bench Crafting requirements. There must be enough orbs
+                of the required type for the recipe in the player's inventory.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Click on the Crafting Bench to open the crafting options window.</cmd>
+            </step>
+            <step
+                conref="how_to_use_horticrafting_station.dita#how_to_use_horticrafting_station/crafting_step_2">
+                <cmd/>
+            </step>
+            <step
+                conref="how_to_use_horticrafting_station.dita#how_to_use_horticrafting_station/crafting_step_3">
+                <cmd/>
+            </step>
+            <step
+                conref="how_to_use_horticrafting_station.dita#how_to_use_horticrafting_station/crafting_step_4">
+                <cmd/>
+            </step>
+        </steps>
+        <example>Place an armor into the Crafting Bench and choose <i>Add Six Linked Sockets To An
+                Item</i>. According to the recipe requirements, 1500 Orbs of Fusing from your
+            inventory will be consumed, and the armor will receive six linked sockets of random
+            colors.</example>
+        <postreq>Use Chromatic Orbs to change the sockets' color to match your gems'
+            colors.</postreq>
+    </taskbody>
+</task>

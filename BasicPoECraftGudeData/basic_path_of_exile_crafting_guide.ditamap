@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Basic Path of Exile Crafting Guide</title>
+    <topicref href="introduction.dita"/>
+    <topicref href="basic_gude_to_craft_in_poe.dita">
+        <topicref href="what_is_crafting.dita"/>
+        <topicref href="crafting_currency.dita"/>
+        <topicref href="orbs_usage.dita"/>
+        <topicref href="item_rarity.dita"/>
+        <topicref href="affixes.dita"/>
+        <topicref href="available_affixes.dita"/>
+    </topicref>
+    <topicref href="how_to_craft.dita">
+        <topicref href="crafting_steps.dita"/>
+    </topicref>
+    <topicref href="special_crafts.dita">
+        <topicref href="harvest.dita">
+            <topicref href="lifeforce_types.dita"/>
+            <topicref href="popular_harvest_crafts.dita"/>
+            <topicref href="how_to_use_horticrafting_station.dita"/>
+        </topicref>
+        <topicref href="bench_crafting.dita">
+            <topicref href="bench_crafting_specifics.dita"/>
+            <topicref href="popular_bench_crafts.dita"/>
+            <topicref href="how_to_use_crafting_bench.dita"/>
+        </topicref>
+    </topicref>
+</map>

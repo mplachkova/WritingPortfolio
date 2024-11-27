@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_horticrafting_station">
+    <title>How to Use Horticrafting Station</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Unlock Horticrafting Station and collect enough Lifeforce.</p>
+            <p conref="crafting_steps.dita#crafting_steps/crafting_steps_prereq"/>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Click on the Horticrafting Station to open the crafting options window.</cmd>
+            </step>
+            <step id="crafting_step_2">
+                <cmd>Place the item into the item's slot.</cmd>
+            </step>
+            <step id="crafting_step_3">
+                <cmd>Select the desired modification.</cmd>
+            </step>
+            <step id="crafting_step_4">
+                <cmd>Press "Craft".</cmd>
+            </step>
+        </steps>
+        <example><b>Example:</b> Use gloves with a Fire Resistance modifier and choose to replace it
+            with a Cold Resistance modifier of the same tier. </example>
+    </taskbody>
+</task>
