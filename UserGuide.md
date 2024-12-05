@@ -38,3 +38,16 @@ Platform menus are virtually grouped in sections according to their function.
 #### Application handling
 
 Hovering over an added application name and right-click opens the context menu with options to run, uninstall, or perform other actions related to that app.
+
+## How to Add an App
+
+Steps to add an application to Portable Apps Platform.
+
+1. Open the Platform and click on the **Apps** menu.
+2. Select **Get More Apps...** option.
+3. Select how you want to see the new Apps - By Category, By Title, New Releases, or Recently Updated.
+4. Select an App and click Install.
+
+**Example:** To install *Notepad++* navigate to **Get More Apps...**; select **By Title**; scroll down and find the application; select it and install it.
+
+## How to Remove an App
