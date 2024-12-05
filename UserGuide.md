@@ -49,5 +49,3 @@ Steps to add an application to Portable Apps Platform.
 4. Select an App and click Install.
 
 **Example:** To install *Notepad++* navigate to **Get More Apps...**; select **By Title**; scroll down and find the application; select it and install it.
-
-## How to Remove an App
