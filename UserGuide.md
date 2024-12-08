@@ -17,7 +17,7 @@ PortableApps is distributed as Free/Open Source (GPL, some MIT, some CC images, 
 
 ## Getting started
 
-When run for the first time, PortableApps will show a window with available apps grouped by category. You may browse and install a desired app right away, or click Cancel to close the window. It will be shown again when the platform is restarted.
+When run for the first time, PortableApps will show a window with available apps, grouped by category. You may browse and install a desired app immediately, or click Cancel to close the window. It will be shown again when the platform is restarted.
 
 ### Menus overview
 
