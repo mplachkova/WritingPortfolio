@@ -11,7 +11,7 @@ PortableApps is a an open-source, free application that provides the opportunity
 
 ## License
 
-According to the official site, "Free/Open Source (GPL, some MIT, some CC images, trademarks, and trade dress not included)".
+According to the official site, "Free/Open Source (GPL, some MIT, some CC images, trademarks and trade dress not included)".
 
 >**Note**:<br>*Some of the published applications may have different license agreements or restrictions specified on each application's page.*
 
