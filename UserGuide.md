@@ -68,3 +68,5 @@ Steps to remove an installed application from the PortableApps platform.
 If application is successfully removed, it will disappear from the list of applications.
 
 **Example:** To uninstall *Notepad++* hover over the application name; right-click on the application name; select Uninstall from the context menu.
+
+![Remove an App Diagram](Images/DeleteAnAppInfographic.png)
