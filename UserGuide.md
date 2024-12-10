@@ -52,4 +52,19 @@ If you successfully install an application, it appears on the left-hand side of 
 
 **Example:** To install *Notepad++* navigate to **Get More Apps...**; select **By Title**; scroll down and find the application; select it and install it.
 
-![Add an App Diagram](../WritingPortfolio/Images/AddAnAppInfographic_v2.png)
+![Add an App Diagram](Images/AddAnAppInfographic_v2.png)
+
+## How to Remove an App
+
+Steps to remove an installed application from the PortableApps platform.
+
+1. Open the Platform.
+2. On the left-hand side, find the application you want to remove.
+3. Hover over the application.
+4. Right-click and select Uninstall.
+5. A warning window will appear, asking for confirmation.
+6. Confirm the choice of uninstalling the application.
+
+If application is successfully removed, it will disappear from the list of applications.
+
+**Example:** To uninstall *Notepad++* hover over the application name; right-click on the application name; select Uninstall from the context menu.
