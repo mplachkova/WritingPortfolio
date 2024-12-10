@@ -7,7 +7,7 @@
 
 ## The application
 
-PortableApps is a an open-source, free application that provides the opportunity to use various tools without the need of installing them on your PC or laptop. All you need is a flash drive, and you can take your most favorite apps in your pocket everywhere you go.
+PortableApps is an open-source, free application that provides the opportunity to use various tools without the need of installing them on your PC or laptop. All you need is a flash drive, and you can take your most favorite apps in your pocket everywhere you go.
 
 ## License
 
@@ -17,7 +17,7 @@ According to the official site, "Free/Open Source (GPL, some MIT, some CC images
 
 ## Getting started
 
-When run for the first time, PortableApps will show a window with available apps grouped by category. You may browse and install a desired app right away, or click Cancel to close the window. It will be shown again when the platform is restarted.
+When run for the first time, PortableApps will show a window with available apps, grouped by category. You may browse and install a desired app immediately, or click Cancel to close the window. It will be shown again when the platform is restarted.
 
 ### Menus overview
 
@@ -48,6 +48,8 @@ Steps to add an application to Portable Apps Platform.
 3. Select how you want to see the new Apps - By Category, By Title, New Releases, or Recently Updated.
 4. Select an App and click Install.
 
+If you successfully install an application, it appears on the left-hand side of the Platform's interface.
+
 **Example:** To install *Notepad++* navigate to **Get More Apps...**; select **By Title**; scroll down and find the application; select it and install it.
 
-## How to Remove an App
+![Add an App Diagram](../WritingPortfolio/Images/AddAnAppInfographic_v2.png)
