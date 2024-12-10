@@ -61,7 +61,7 @@ Steps to remove an installed application from the PortableApps platform.
 1. Open the Platform.
 2. On the left-hand side, find the application you want to remove.
 3. Hover over the application.
-4. Right-click and select Uninstall.
+4. Right-click, and select Uninstall from the context menu.
 5. A warning window will appear, asking for confirmation.
 6. Confirm the choice of uninstalling the application.
 
@@ -70,3 +70,18 @@ If application is successfully removed, it will disappear from the list of appli
 **Example:** To uninstall *Notepad++* hover over the application name; right-click on the application name; select Uninstall from the context menu.
 
 ![Remove an App Diagram](Images/DeleteAnAppInfographic.png)
+
+## How to Add an App to Favorites
+
+The favorite applications are listed on top of the application list in the Platform interface; they are visually separated from the other apps with a horizontal line, and are easier to find.
+
+Only installed applications can be added to Favorites.
+
+Steps to make an application favorite.
+
+1. Open the Platform.
+2. On the left-hand side, find the application you want to add to your favorites.
+3. Hover over the application name.
+4. Right-click, and select Favorite from the context menu.
+
+**Example:** Hover over the name of an application you frequently use; right-click, and select Favorite from the context menu.
