@@ -11,7 +11,7 @@ PortableApps is a an open-source, free application that provides the opportunity
 
 ## License
 
-PortableApps is distributed as Free/Open Source (GPL, some MIT, some CC images, trademarks, and trade dress not included).
+According to the official website, "Free/Open Source (GPL, some MIT, some CC images, trademarks, and trade dress not included)".
 
 >**Note**:<br>*Some of the published applications may have different license agreements or restrictions specified on each application's page.*
 
@@ -51,3 +51,5 @@ Steps to add an application to Portable Apps Platform.
 If you successfully install an application, it appears on the left-hand side of the Platform's interface.
 
 **Example:** To install *Notepad++* navigate to **Get More Apps...**; select **By Title**; scroll down and find the application; select it and install it.
+
+![Add an App Diagram](../WritingPortfolio/Images/AddAnAppInfographic_v2.png)
