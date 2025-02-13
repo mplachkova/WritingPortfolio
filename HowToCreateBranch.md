@@ -22,10 +22,10 @@ The new branch you created will be present in both your local and remote reposit
 
 ## Example in pictures
 
-**1. Create a new branch.**
+1. Create a new branch.
 
 ![new branch](Images/newBranchMenus.png)
 
-**2. Publish the new branch.**
+2. Publish the new branch.
 
 ![publish branch](Images/publishBranch_sm.png)

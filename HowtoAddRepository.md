@@ -2,7 +2,7 @@
 
 ## Summary
 
-How to clone my remote GitHub repository locally using Visual Studio Code.
+How to clone your remote GitHub repository to your computer using Visual Studio Code.
 
 ## Prerequisites
 
@@ -10,18 +10,26 @@ How to clone my remote GitHub repository locally using Visual Studio Code.
 
 ## Steps
 
-1. Navigate to the repository's dashboard.
-2. Click on the "Code" button and copy the repository's URL under the HTTPS tab of the drop-down menu.
-3. In VS Code press press `ctrl + shift + p` to open the CLI.
-4. Select `Git:Clone`.
-5. Paste the previously copied URL into the specified field.
-6. Select or create a directory that will be the repository destination.
-7. Choose to add the newly cloned repository to the current VS Workplace, open it in a new window, or in a new VS Code instance.
+1. On GitHub platform navigate to the repository`s dashboard.
+2. Click on the "Code" button to open the drop-down menu.
+
+![Repository URL](images/greenButton.png)
+
+3. Copy the repository url provided in the HTTPS tab.
+4. In Visual Studio Code press `ctrl + shift + p` to open the command line interface.
+5. Select/Write `Git: Clone`.
+
+![gitClone](images/gitClone.png)
+
+6. Paste the repository`s url in the specified field.
+
+![repository url](images/repoLink.png)
+
+7. Select or create a directory which will be the repository destination.
+8. Choose what action to take with your newly cloned repository.
+
+![open repository](images/openRepo.png)
 
 ## Result
 
-You have your GitHub repository cloned and can work and make changes locally.
-
-## Example in pictures
-
-## Reference
+You have your GitHub repository cloned to your PC, and can work and make changes locally.
