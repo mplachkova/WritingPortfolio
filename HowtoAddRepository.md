@@ -10,7 +10,7 @@ How to clone your remote GitHub repository to your computer using Visual Studio 
 
 ## Steps
 
-1. On GitHub platform navigate to the repository`s dashboard.
+1. On GitHub platform navigate to the repository's dashboard.
 2. Click on the "Code" button to open the drop-down menu.
 
 ![Repository URL](Images/greenButton.png)
@@ -21,7 +21,7 @@ How to clone your remote GitHub repository to your computer using Visual Studio 
 
 ![gitClone](Images/gitClone.png)
 
-6. Paste the repository`s url in the specified field.
+6. Paste the repository's url in the specified field.
 
 ![repository url](Images/repoLink.png)
 
