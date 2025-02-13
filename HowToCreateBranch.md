@@ -2,7 +2,7 @@
 
 ## Summary
 
-Here you will find the instructions how to create a new branch locally using Visual Studio Code.
+How to create a new branch locally using Visual Studio Code.
 
 ## Prerequisites
 
