@@ -33,3 +33,5 @@ How to clone your remote GitHub repository to your computer using Visual Studio 
 ## Result
 
 You have your GitHub repository cloned to your PC, and can work and make changes locally.
+
+# Frequently Asked Questions
